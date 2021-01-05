@@ -67,7 +67,6 @@ private:
     void convolutionAlphaBeta_MedianSum(Conv_t*);
     void convolutionAlphaBeta_MedianDiff(Conv_t*);
     void checkNeighbourhood(Labl_t *);
-    void checkNeighbourhoodM(Labl_t *);
 
 
 private slots:
@@ -90,8 +89,6 @@ private slots:
     void calculateHistogram();
     void labelingNormal();
     void labelingValue();
-    void labelingM();
-    void watershed();
 
 };
 
