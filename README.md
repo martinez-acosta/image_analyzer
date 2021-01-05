@@ -10,6 +10,7 @@ Develop an application that implements image analysis algorithms such as graysca
 
 - Qt
 - C++
+- QCustomPlot (to plot the histogram)
 
 
 ## Status
