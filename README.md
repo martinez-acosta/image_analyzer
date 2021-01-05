@@ -12,6 +12,8 @@ Develop an application that implements image analysis algorithms such as graysca
 - C++
 - QCustomPlot (to plot the histogram)
 
+## Videos
+- Demo: https://youtu.be/XEBaKgJjDuo
 
 ## Status
 
